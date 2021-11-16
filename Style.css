@@ -1,0 +1,32 @@
+body {
+  background: url("Images/Background.jpg");
+  background-size: cover;
+  height: 100%;
+  background-repeat: no-repeat;
+}
+body,
+html {
+  height: 100%;
+  margin: 0;
+}
+
+.bg {
+  background-image: url("Images/shopping-list-illustration.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.card {
+  margin: 10%;
+}
+
+.row, .container-fluid {
+    height: 100%;
+}
+
+.btn {
+    border-radius: 20px;
+    width: 60%;
+}

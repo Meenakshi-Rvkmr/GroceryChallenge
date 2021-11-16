@@ -1,0 +1,74 @@
+{
+  "data": [
+    {
+      "SNo": "1",
+      "Item": "Rice",
+      "Quantity": "5",
+      "Unit": "kg",
+      "Department": "Rice & Flour"
+    },
+    {
+        "SNo": "2",
+        "Item": "Kellog's Chocos",
+        "Quantity": "750",
+        "Unit": "g",
+        "Department": "Cereal & Muesli"
+      },
+      {
+        "SNo": "3",
+        "Item": "Ketchup",
+        "Quantity": "50",
+        "Unit": "g",
+        "Department": "Cooking Pastes & Sauces"
+      },
+      {
+        "SNo": "4",
+        "Item": "Carrots",
+        "Quantity": "1",
+        "Unit": "kg",
+        "Department": "Vegetables"
+      },
+      {
+        "SNo": "5",
+        "Item": "Onion",
+        "Quantity": "1",
+        "Unit": "kg",
+        "Department": "Vegetables"
+      },
+      {
+        "SNo": "6",
+        "Item": "Apples",
+        "Quantity": "1",
+        "Unit": "kg",
+        "Department": "Fruits"
+      },
+      {
+        "SNo": "7",
+        "Item": "Oranges",
+        "Quantity": "1",
+        "Unit": "kg",
+        "Department": "Fruits"
+      },
+      {
+        "SNo": "8",
+        "Item": "Sunflower Oil",
+        "Quantity": "1",
+        "Unit": "L",
+        "Department": "Oil"
+      },
+      {
+        "SNo": "9",
+        "Item": "Eggs",
+        "Quantity": "12",
+        "Unit": "Number",
+        "Department": "Diary"
+      },
+      {
+        "SNo": "9",
+        "Item": "Milk",
+        "Quantity": "1",
+        "Unit": "L",
+        "Department": "Diary"
+      }
+  ]
+}

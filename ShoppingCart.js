@@ -9,6 +9,7 @@ function ajax() {
 
       $("#example").DataTable({
         data: JSON.parse(this.response).data,
+        "paging":   false,
         columns: [
             {},
           { data: "SNo" },
